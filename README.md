@@ -17,9 +17,6 @@ You and build and install this project yourselves by ( from the command line )
 - git clone git@github.com:Alan01252/bodyweightfitness.git
 - Running the application (http://ionicframework.com/docs/cli/run.html)
 
-## Contributors
-
-Everyone at http://reddit.com/r/bodyweightfitness
 
 ## License
 
